@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @WojakGra
+- 👋 Hi, I’m @Wojak (Jakub Wojdziak)
 - 🌱 I’m currently learning PHP/Symfony
 - 📫 Email me: kubaxplay@o2.pl
