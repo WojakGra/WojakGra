@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Wojak (Jakub Wojdziak)
-- 🌱 I’m currently learning Nothing :)
+- 🌱 I’m currently learning React(Mantine | Tanstack) + Node(Express) :)
 - 📫 Email me: jakub@wojak.works
